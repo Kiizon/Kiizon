@@ -4,12 +4,11 @@
 
 ### About me ~
 
-```python
 about = {
-    "code": ["Python", "Swift", "Go"],
-    "frameworks": ["Flask", "FastAPI", "React"],
-    "infrastructure": ["AWS", "Docker"],
-    "architecture": ["microservices", "system design"],
-    "interests": ["genai", "reinforcement learning"]
+    "code": ["Python", "Swift", "Go", "Bash", "TypeScript"],
+    "frameworks": ["FastAPI", "Flask", "React", "SwiftUI"],
+    "infrastructure": ["AWS", "Docker", "GitHub Actions"],
+    "interests": ["genAI", "reinforcement learning", "automation"]
 }
+
 
