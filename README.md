@@ -6,9 +6,7 @@
 ```python
 about = {
     "code": ["Python", "Swift", "Go", "Bash", "TypeScript"],
-    "frameworks": ["FastAPI", "Flask", "React", "SwiftUI"],
-    "infrastructure": ["AWS", "Docker", "GitHub Actions"],
-    "interests": ["genAI", "reinforcement learning", "automation"]
+    "interests": ["genAI", "automation", "music", "gaming", "learning"]
 }
 ```
 
