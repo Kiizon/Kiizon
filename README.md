@@ -2,11 +2,3 @@
 
 <p><em>CS student at TMU</em></p>
 
-### About me ~
-```python
-about = {
-    "code": ["Python", "Swift", "Go", "Bash", "TypeScript"],
-    "interests": ["genAI", "automation", "music", "gaming", "learning"]
-}
-```
-
