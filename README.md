@@ -6,7 +6,7 @@
 while True:
     try:
         learn()
-    except RuntimeError:
+    except:
         crashout()
     else:
         try_again()
