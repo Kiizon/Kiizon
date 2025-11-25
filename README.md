@@ -2,3 +2,16 @@
 
 <p><em>CS student at TMU</em></p>
 
+```python
+while True:
+    try:
+        learn()
+    except RuntimeError:
+        crashout()
+    else:
+        try_again()
+    finally:
+        sleep()
+```
+
+
